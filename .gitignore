@@ -1,0 +1,16 @@
+# Generated deobfuscation outputs — too large, not source
+methods_dump/
+SpiderBackup-macOS/
+fix/
+
+# Build artifacts (exe and pdb from compiling our .cs files)
+*.exe
+*.pdb
+
+# macOS
+.DS_Store
+
+# IDE
+.vs/
+*.suo
+*.sln.docstates
